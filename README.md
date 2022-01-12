@@ -5,13 +5,13 @@
 
 ## About
 
-PCB Wrench is an open hardware project for eletronics kit makers. It was designed to create lots of small M3 wrenches at an afforable price **($0.09 USD per wrench)**. The wrenches are strong and can tighten M3 nuts with a surprising amount of torque.
+PCB Wrench is an open hardware project for electronics kit makers. It was designed to create lots of small M3 wrenches at an affordable price **($0.09 USD per wrench)**. The wrenches are strong and can tighten M3 nuts with a surprising amount of torque.
 
 ## Ordering
 
-I used JLCPCB to produce my PCBs but PCB Way or any other fab
+I used JLCPCB to produce my PCBs but PCB Way or any other fab should work
 
-- Go to https://jlcpcb.com/ or https://www.pcbway.com/
+- Go to https://jlcpcb.com/
 
 - Click the **Order Now** button
 
@@ -22,7 +22,7 @@ I used JLCPCB to produce my PCBs but PCB Way or any other fab
   ![Screenshot with order options selected](docs/order-options.png)
 
 
-### **WAIT!!!! Add this comment to PCB Remarks**
+### ** :rotating_light::rotating_light::rotating_light: - WAIT!!!! Add this comment to PCB Remarks - :rotating_light::rotating_light::rotating_light:**
 
     Please V-CUT as indicated in the Eco1_User gerber file.
 
