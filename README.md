@@ -8,6 +8,7 @@
 PCB Wrench is an open hardware project for electronics kit makers. It was designed to create lots of small M3 wrenches at an affordable price **($0.09 USD per wrench)**. The wrenches are strong and can tighten M3 nuts with a surprising amount of torque.
 
 **Demo video on how this project was started:**
+
 [![PCB Wrench - Open Hardware Cheap and Easy M3 Wrenches for Electronics Kits](https://img.youtube.com/vi/X2ZebSj626w/0.jpg)](http://www.youtube.com/watch?v=X2ZebSj626w "PCB Wrench - Open Hardware Cheap and Easy M3 Wrenches for Electronics Kits")
 
 ## Ordering
