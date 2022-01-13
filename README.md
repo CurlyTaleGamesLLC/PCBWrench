@@ -9,7 +9,7 @@ PCB Wrench is an open hardware project for electronics kit makers. It was design
 
 ## Ordering
 
-I used JLCPCB to produce my PCBs but PCB Way or any other fab should work
+I used JLCPCB to produce my PCBs but PCB Way or any other fab should work too
 
 - Go to https://jlcpcb.com/
 
@@ -22,16 +22,16 @@ I used JLCPCB to produce my PCBs but PCB Way or any other fab should work
   ![Screenshot with order options selected](docs/order-options.png)
 
 
-### ** :rotating_light::rotating_light::rotating_light: - WAIT!!!! Add this comment to PCB Remarks - :rotating_light::rotating_light::rotating_light:**
+### :rotating_light::rotating_light::rotating_light: - IMPORTANT!!!! Add this comment to PCB Remarks - :rotating_light::rotating_light::rotating_light:
 
     Please V-CUT as indicated in the Eco1_User gerber file.
 
 ![Screenshot with comments section highlighted](docs/order-options-remark.png)
 
 
-Even if you specificy the PCB to be panelized sometimes technicians will ignore the V-grooving (V-CUT) gerber file so it's important to add that comment. 
+Even if you specify the PCB to be panellized sometimes technicians will ignore the V-grooving (V-CUT) gerber file so it's important to add that comment. 
 
-[JLCPCB wants all of the milling opperations in the Edge_Cuts gerber file/layer in KiCad (#7 on that page)](https://support.jlcpcb.com/article/68-instructions-for-ordering), but if you do that KiCad will give you an error if you try to use the 3D previewer.
+[JLCPCB wants all of the milling operations in the Edge_Cuts gerber file/layer in KiCad (#7 on this page)](https://support.jlcpcb.com/article/68-instructions-for-ordering), but if you do that KiCad will give you an error if you try to use the 3D previewer.
 
 ![Screenshot showing V-cut on the Eco1_User layer](docs/screenshot.png)
 
